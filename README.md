@@ -6,7 +6,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-Hi, my name is David and I’m a Junior Front-End Developer eager to continue developing as a programmer. Broad resolution skills, calm, creative personality and responsible worker.
+Hi, my name is David and I’m a Junior Front-End Developer at Decathlon eager to continue developing as a programmer. Broad resolution skills, calm, creative personality and responsible worker.
 
 - 🔭 I’m currently working on **MERN Stack while improving my HTML/CSS/JS skills**
 - 💬 How to contact with me: david.martinez_16@hotmail.com
