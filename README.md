@@ -1,14 +1,15 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/david-martinez-perez-636456221">
-  <img align="left" alt="David's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="David's LinkedIN" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 Hi, my name is David and I’m a Junior Front-End Developer at Decathlon eager to continue developing as a programmer. Broad resolution skills, calm, creative personality and responsible worker.
 
-- 🔭 I’m currently working on **MERN Stack while improving my HTML/CSS/JS skills**
+- 🔭 I’m learn the **MERN Stack while improving my HTML/CSS/JS skills**
+- ➡️ Right now I'm working with Svelte and Svelte
 - 💬 How to contact with me: david.martinez7@decathlon.com
 - ⚡ Fun Fact: I'm an artist with pen and Adobe Photoshop and a gamer. 
 
