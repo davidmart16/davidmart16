@@ -9,7 +9,7 @@
 Hi, my name is David and I’m a Junior Front-End Developer at Decathlon eager to continue developing as a programmer. Broad resolution skills, calm, creative personality and responsible worker.
 
 - 🔭 I’m learn the **MERN Stack while improving my HTML/CSS/JS skills**
-- ➡️ Right now I'm working with Svelte and Svelte
+- ➡️ Right now I'm working with Svelte and Svelte Kit
 - 💬 How to contact with me: david.martinez7@decathlon.com
 - ⚡ Fun Fact: I'm an artist with pen and Adobe Photoshop and a gamer. 
 
