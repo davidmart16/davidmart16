@@ -1,4 +1,4 @@
-### Hi there <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="25px">
+### Hi there
 
 <a href="https://www.linkedin.com/in/david-martinez-perez-636456221">
   <img align="left" alt="David's LinkedIN" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
